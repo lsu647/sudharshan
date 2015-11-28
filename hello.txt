@@ -1,2 +1,5 @@
 rgbfd
-vdjvhlg
+<<<<<<< HEAD
+vdjvhl
+added 2nd line
+>>>>>>> change in 2nd line
