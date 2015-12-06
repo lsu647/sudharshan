@@ -7,6 +7,6 @@ dded second line from git workstation
 Added another line from git workstation
 <<<<<<< HEAD
 Added from workstation
-
+def
 Added from github
 >>>>>>> 6ba8dd95221d37ade108047034c3c074aecfd5c4
