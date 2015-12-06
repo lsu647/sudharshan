@@ -5,3 +5,4 @@ Added second line in sudhu.txt
 dded second line from git workstation
 >>>>>>> Added line in sudhu.txt from git
 Added another line from git workstation
+Added from github
